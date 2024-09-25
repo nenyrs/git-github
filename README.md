@@ -56,3 +56,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 Terminou a tabela.
 
 Confira aqui o guia completo de Sintaxe básica de gravação e formatação no **GitHub** [aqui](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+Emoji [aqui](https://github.com/ikatyang/emoji-cheat-sheet)
+
+Site oficial [Emojipedia](https://emojipedia.org/pt)
