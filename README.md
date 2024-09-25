@@ -2,7 +2,7 @@
 
 Material do **Curso de Git e GitHub**, disponível gratuitamente no canal do _YouTube_
 
-# Confira alguns markdown:
+## Confira alguns markdown:
 
 - [x] Listar alguns markdown;
 - [ ] Lista de pratica 2;
@@ -45,7 +45,7 @@ This is a <sup>superscript</sup> text Este é um texto sobrescrito
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-# Tabela
+### Tabela
 
 | Num | Nome     | Nota |
 | --- | -------- | ---- |
